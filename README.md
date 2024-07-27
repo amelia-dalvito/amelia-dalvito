@@ -1,5 +1,6 @@
-- Hi, I’m @amelia-dalvito
+Hi, I’m Amelia Dalvito
 - 👀 I’m interested in ...
+-   Web-Scraping, API Architecture, and AI
 - 🌱 I’m currently learning ...
 \
 
