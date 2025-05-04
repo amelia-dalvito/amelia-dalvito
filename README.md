@@ -1,5 +1,5 @@
 Hi, I’m Amelia Dalvito
-- 👀 I’m interested in web-scraping, API architecture, and AI
+- 👀 I’m interested in web-scraping, API architecture, and ML
 - 🌱 I’m currently learning web scraping
 
 
